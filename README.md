@@ -27,4 +27,4 @@
 - JavaScript
 
 ## Project Gif
-<img src="FinalProject2.gif">
+<img src="FinalProject.gif">
